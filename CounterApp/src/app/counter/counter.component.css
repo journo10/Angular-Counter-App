@@ -1,0 +1,15 @@
+h1{
+    font-size: 100px;
+    color: #000000;
+    font-weight: bold;
+}
+.container{
+    position: fixed;
+    top: 16%;
+    left: 25%;
+    width: 50%;
+    border-radius: 10px;
+}
+.btn{
+    color: #000000;
+}
